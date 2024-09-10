@@ -1,1 +1,2 @@
-# git-assignment
+Ethan Hathaway
+ethan.hathaway@wsu.edu
